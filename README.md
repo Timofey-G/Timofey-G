@@ -20,7 +20,6 @@ I'm involved in backend development with Python and also use Machine Learning to
 <p>
   <img align="center" src="images/email.png" alt="yo.tgrig@yandex.ru" width="50px"/> - yo.tgrig@yandex.ru
 </p>
-</br>
 
 
 ## 🔧 Technologies & Tools
