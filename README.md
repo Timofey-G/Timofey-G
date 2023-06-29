@@ -13,7 +13,7 @@ I'm involved in backend development with Python and also use Machine Learning to
 
 ### 🤝 Connect with me:
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 <a href="https://t.me/yo_tima/">
   <img align="center" src="images/telegram.png" alt="Timofey Grigorenko | Telegram" width="40px"/>
 </a>
@@ -24,7 +24,7 @@ I'm involved in backend development with Python and also use Machine Learning to
 </br>
 
 
-## 🛠️ Languages and Tools
+## 🔧 Technologies & Tools
 
   [![Python][Python]][Python-url]
   [![FastAPI][FastAPI]][FastAPI-url]
