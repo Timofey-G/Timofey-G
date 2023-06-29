@@ -6,8 +6,16 @@
 
 
 <div id=header align="center">
-  <h2>Hi there! I'm Tim 👋</h2>
+  <h2>Hi there! I'm Tim <img src="https://raw.githubusercontent.com/Timofey-G/Timofey-G/master/wave.gif" width="30px" height="30px"/></h2>
 </div>
+
+<div id=header align="center">
+  <h2>Hi there! I'm Tim <img src="https://raw.githubusercontent.com/Timofey-G/Timofey-G/master/images/wave.gif" width="30px" height="30px"/></h2>
+</div>
+
+<img src="https://raw.githubusercontent.com/Timofey-G/Timofey-G/master/images/wave.giff" width="30px" height="30px" />
+
+<img src="https://raw.githubusercontent.com/Timofey-G/Timofey-G/master/wave.giff" width="30px" height="30px" />
 
 I'm involved in backend development with Python and also use Machine Learning to some extent.
 
