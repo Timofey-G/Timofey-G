@@ -49,7 +49,7 @@ I'm involved in backend development with Python and also use Machine Learning to
   <img src="https://github-readme-stats-i3vu.vercel.app/api?username=timofey-g&title_color=009485&text_color=ffffff&icon_color=009485&border_color=343a40&bg_color=343a40&rank_icon=github&show_icons=true&hide=stars" alt="Anurag's GitHub stats-light">
 </a>
 <a href="https://github.com/anuraghazra/github-readme-stats#gh-dark-mode-only">
-  <img src="https://github-readme-stats-i3vu.vercel.app/api?username=timofey-g&title_color=009485&text_color=ffffff&icon_color=009485&border_color=212529&bg_color=212529&rank_icon=github&show_icons=true&hide=stars" alt="Anurag's GitHub stats-dark">
+  <img src="https://github-readme-stats-i3vu.vercel.app/api?username=timofey-g&title_color=009485&text_color=ffffff&icon_color=009485&border_color=y&bg_color=212529&rank_icon=github&show_icons=true&hide=stars" alt="Anurag's GitHub stats-dark">
 </a>
 
 
