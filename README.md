@@ -26,52 +26,31 @@ I'm involved in backend development with Python and also use Machine Learning to
 
 ## 🛠️ Languages and Tools
 
-<div style="display: flex; justify-content: space-between; flex-wrap: wrap;">
-  <div>
-    
-  - [![Python][Python]][Python-url]
-  - [![FastAPI][FastAPI]][FastAPI-url]
-  - [![Django][Django]][Django-url]
-  - [![DRF][DRF]][DRF-url]
-  - [![SQL][SQL]][SQL-url]
-    
-  </div>
-  <div>
+  [![Python][Python]][Python-url]
+  [![FastAPI][FastAPI]][FastAPI-url]
+  [![Django][Django]][Django-url]
+  [![DRF][DRF]][DRF-url]
+  [![SQL][SQL]][SQL-url]
   
-  - [![HTML][HTML]][HTML-url]
-  - [![CSS][CSS]][CSS-url]
-  - [![Bootstrap][Bootstrap]][Bootstrap-url]
-  - [![Docker][Docker]][Docker-url]
-  - [![Linux][Linux]][Linux-url]
-      
-  </div>
-  <div>
+  [![HTML][HTML]][HTML-url]
+  [![CSS][CSS]][CSS-url]
+  [![Bootstrap][Bootstrap]][Bootstrap-url]
+  [![Docker][Docker]][Docker-url]
+  [![Linux][Linux]][Linux-url]
   
-  - [![Sklearn][Sklearn]][Sklearn-url]
-  - [![Numpy][Numpy]][Numpy-url]
-  - [![Pandas][Pandas]][Pandas-url]
-      
-  </div>
-</div>
+  [![Sklearn][Sklearn]][Sklearn-url]
+  [![Numpy][Numpy]][Numpy-url]
+  [![Pandas][Pandas]][Pandas-url]
 
 
 ## 📈 GitHub Stats
 
-<p align="center1">
-  <a href="https://github.com/anuraghazra/github-readme-stats#gh-light-mode-only">
-    <img src="https://github-readme-stats-i3vu.vercel.app/api?username=timofey-g&title_color=009485&text_color=ffffff&icon_color=009485&border_color=343a40&bg_color=343a40&rank_icon=github&show_icons=true&hide=stars" alt="Anurag's GitHub stats-light">
-  </a>
-</p>
-<p align="center1">
-  <a href="https://github.com/anuraghazra/github-readme-stats#gh-dark-mode-only">
-    <img src="https://github-readme-stats-i3vu.vercel.app/api?username=timofey-g&title_color=009485&text_color=ffffff&icon_color=009485&border_color=212529&bg_color=212529&rank_icon=github&show_icons=true&hide=stars" alt="Anurag's GitHub stats-dark">
-  </a>
-</p>
-<!-- <p align="center"
-  <a href="https://github.com/anuraghazra/github-readme-stats#gh-dark-mode-only">
-    <img src="https://github-readme-stats-i3vu.vercel.app/api?username=timofey-g&theme=holi&show_icons=true&hide=stars&bg_color=00000000" alt="Anurag's GitHub stats-dark">
-  </a>
-</p> -->
+<a href="https://github.com/anuraghazra/github-readme-stats#gh-light-mode-only">
+  <img src="https://github-readme-stats-i3vu.vercel.app/api?username=timofey-g&title_color=009485&text_color=ffffff&icon_color=009485&border_color=343a40&bg_color=343a40&rank_icon=github&show_icons=true&hide=stars" alt="Anurag's GitHub stats-light">
+</a>
+<a href="https://github.com/anuraghazra/github-readme-stats#gh-dark-mode-only">
+  <img src="https://github-readme-stats-i3vu.vercel.app/api?username=timofey-g&title_color=009485&text_color=ffffff&icon_color=009485&border_color=212529&bg_color=212529&rank_icon=github&show_icons=true&hide=stars" alt="Anurag's GitHub stats-dark">
+</a>
 
 
 [Python-url]: https://python.org
