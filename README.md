@@ -13,14 +13,13 @@ I'm involved in backend development with Python and also use Machine Learning to
 
 ### 🤝 Connect with me:
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 <a href="https://t.me/yo_tima/">
-  <img align="center" src="images/telegram.png" alt="Timofey Grigorenko | Telegram" width="40px"/>
+  <img align="center" src="images/telegram.png" alt="Timofey Grigorenko | Telegram" width="50px"/> - Telegram
 </a>
-&nbsp;&nbsp;&nbsp;
-<a href="https://t.me/yo_tima/">
-  <img align="center" src="images/email.png" alt="yo.tgrig@yandex.ru" width="50px"/>
-</a>
+<!-- &nbsp;&nbsp;&nbsp; -->
+<p>
+  <img align="center" src="images/email.png" alt="yo.tgrig@yandex.ru" width="50px"/> - yo.tgrig@yandex.ru
+</p>
 </br>
 
 
