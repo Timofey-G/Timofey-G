@@ -1,12 +1,12 @@
-<!-- <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="images/banner_dark.png">
-  <img alt="banner_light" src="images/banner_light.png">
-</picture> -->
+<picture>
+ <source media="(prefers-color-scheme: dark)" srcset="images/banner.png">
+ <source media="(prefers-color-scheme: light)" srcset="images/banner.png">
+ <img alt="Timofey G. Python Developer | Projects, Stats and Something About Me" src="images/banner.png">
+</picture>
 
 
-
-<div id=header align="center">
-  <h2>Hi there! I'm Tim <img src="https://raw.githubusercontent.com/Timofey-G/Timofey-G/master/wave.gif" width="30px" height="30px"/></h2>
+<div id=header>
+  <h2>Hi there, I'm Timofey! <img src="https://raw.githubusercontent.com/Timofey-G/Timofey-G/master/wave.gif" width="30px" height="30px"/></h2>
 </div>
 
 I'm involved in backend development with Python and also use Machine Learning to some extent.
