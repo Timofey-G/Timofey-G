@@ -52,7 +52,7 @@ My name is Timofey Grigorenko. I'm involved in backend development with Python a
   <img src="https://github-readme-stats-i3vu.vercel.app/api?username=timofey-g&title_color=009485&text_color=ffffff&icon_color=009485&border_color=343a40&bg_color=343a40&rank_icon=github&show_icons=true&hide=stars" alt="GitHub stats-light">
 </a>
 <a href="https://github.com/Timofey-G/github-readme-stats#gh-dark-mode-only">
-  <img src="https://github-readme-stats-i3vu.vercel.app/api?username=timofey-g&title_color=009485&text_color=ffffff&icon_color=009485&border_color=adbac7&bg_color=212529&rank_icon=github&show_icons=true&hide=stars" alt="GitHub stats-dark">
+  <img src="https://github-readme-stats-i3vu.vercel.app/api?username=timofey-g&title_color=009485&text_color=ffffff&icon_color=009485&border_color=1d1f21&bg_color=1d1f21&rank_icon=github&show_icons=true&hide=stars" alt="GitHub stats-dark">
 </a>
 
 
