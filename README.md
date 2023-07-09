@@ -6,10 +6,10 @@
 
 
 <div id=header>
-  <h2>Hi there, I'm Timofey! <img src="https://raw.githubusercontent.com/Timofey-G/Timofey-G/master/wave.gif" width="30px" height="30px"/></h2>
+  <h2>Hello there! <img src="https://raw.githubusercontent.com/Timofey-G/Timofey-G/master/wave.gif" width="30px" height="30px"/></h2>
 </div>
 
-I'm involved in backend development with Python and also use Machine Learning to some extent.
+My name is Timofey Grigorenko. I'm involved in backend development with Python and also use Machine Learning to some extent.
 
 
 ### 🤝 Connect with me:
