@@ -1,6 +1,6 @@
 <picture>
  <source media="(prefers-color-scheme: dark)" srcset="images/banner_dark.png">
- <source media="(prefers-color-scheme: light)" srcset="images/banner_dark.png">
+ <source media="(prefers-color-scheme: light)" srcset="images/banner_light.png">
  <img alt="Timofey G. Python Developer | Projects, Stats and Something About Me" src="images/banner_dark.png">
 </picture>
 
