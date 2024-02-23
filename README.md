@@ -1,6 +1,6 @@
 <picture>
- <source media="(prefers-color-scheme: dark)" srcset="images/banner_dark.png">
- <source media="(prefers-color-scheme: light)" srcset="images/banner_light.png">
+ <source media="(prefers-color-scheme: dark)" srcset="dark.png">
+ <source media="(prefers-color-scheme: light)" srcset="light-dark.png">
  <img alt="Timofey G. Python Developer | Projects, Stats and Something About Me" src="images/banner_light.png">
 </picture>
 
@@ -9,7 +9,7 @@
   <h2>Hello there! <img src="https://raw.githubusercontent.com/Timofey-G/Timofey-G/master/wave.gif" width="30px" height="30px"/></h2>
 </div>
 
-My name is Timofey Grigorenko. I'm involved in backend development with Python and also use Machine Learning to some extent.
+My name is Timofey Grigorenko. I work with machine learning, data analysis, and backend development in Python.
 
 
 ### 🤝 Connect with me:
