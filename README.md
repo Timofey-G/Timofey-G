@@ -1,6 +1,6 @@
 <picture>
- <source media="(prefers-color-scheme: dark)" srcset="banner_dark_light.png">
- <source media="(prefers-color-scheme: light)" srcset="banner_light_dark.png">
+ <source media="(prefers-color-scheme: dark)" srcset="images/banner_dark.png">
+ <source media="(prefers-color-scheme: light)" srcset="images/banner_light.png">
  <img alt="Timofey G. Data Scientist | Projects, Stats and Something About Me" src="images/banner_light.png">
 </picture>
 
