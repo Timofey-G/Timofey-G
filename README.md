@@ -68,7 +68,7 @@ My name is Timofey Grigorenko. I work with machine learning, data analysis, and 
 [Keras-url]: https://keras.io/
 [Keras]: https://img.shields.io/badge/Keras-2f2f2f?style=for-the-badge&logo=keras&logoColor=d00000
 [Sklearn-url]: https://scikit-learn.org/
-[Sklearn]: https://img.shields.io/badge/Sklearn-3499cd?style=for-the-badge&logo=scikit-learn&logoColor=f89939
+[Sklearn]: https://img.shields.io/badge/Scikit_Learn-3499cd?style=for-the-badge&logo=scikit-learn&logoColor=f89939
 [Pandas-url]: https://pandas.pydata.org/
 [Pandas]: https://img.shields.io/badge/Pandas-130654?style=for-the-badge&logo=pandas&logoColor=e70488
 [Numpy-url]: https://numpy.org/
